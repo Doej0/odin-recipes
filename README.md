@@ -1,0 +1,1 @@
+This project showcases my HTML skills through the creation of a basic recipe website. It features a main index page with links to several recipes. The site is intentionally left unstyled to focus on the HTML structure and content.
